@@ -1,12 +1,4 @@
-Setup Instructions
-Clone the repository:
-   
-1. **Clone the repository:**	
-	git clone https://github.com/iv1221/db2.git
-   
-
-2. **Necessary Files:**	
-	Ensure the 4 .csv files are in the same directory as the main.py file
+Manual
 
 ## Admin Accounts
 
@@ -16,17 +8,6 @@ Clone the repository:
 |  admin2    |   admin   | Staff       | Able to access staff functions (CRUD Operations)       |
 |  admin3    |   admin   | Staff       | Able to access staff functions (CRUD Operations)       |
 
-## Required Libraries
-- tkinter
-- numpy
-- pandas
-- pymongo
-- psutil
-- bson
-- os
-- time
-- datetime
+## User Accounts
+Create user accounts using the create account button
 
-## Start the UI
-
-Run main.py
